@@ -1,0 +1,20 @@
+{
+    "tenantId": "dl",
+    "moduleName": "WSM",
+    "ContractorType": [{
+            "name": "Contractor",
+            "code": "CTR",
+            "active": true
+        },
+        {
+            "name": "Supplier",
+            "code": "SUP",
+            "active": true
+        },
+        {
+            "name": "Tenant",
+            "code": "TNT",
+            "active": true
+        }
+    ]
+}

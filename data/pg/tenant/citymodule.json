@@ -592,6 +592,31 @@
           "code": "pg.citye"
         }
       ]
+    },
+    {
+      "module": "WMS",
+      "code": "WMS",
+      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/PGR.png",
+      "active": true,
+      "order":1,
+      "tenants": [
+        {
+          "code": "pg.citya"
+        },
+        {
+          "code": "pg.cityb"
+        },
+        {
+          "code": "pg.cityc"
+        },
+        {
+          "code": "pg.cityd"
+        },
+        {
+          "code": "pg.citye"
+        }
+
+      ]
     }
   ]
 }

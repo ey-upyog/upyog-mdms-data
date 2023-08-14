@@ -1,0 +1,18 @@
+{
+  "tenantId": "dl",
+  "moduleName": "egov-wms",
+  "ContractorType": [
+    {
+      "code": "Contractor",
+      "active": true
+    },
+    {
+      "code": "Supplier",
+      "active": true
+    },
+    {
+      "code": "Tenant",
+      "active": true
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+    "tenantId": "upcitya",
+    "moduleName": "FSM",
+    "zeroPricing": [
+        {
+            "zeroPricingStatus": true
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+  "tenantId": "dl",
+  "moduleName": "firenoc",
+  "FireStations": [
+    {
+      "code": "FS_CITYA_01",
+      "baseTenantId": "upcitya",
+      "active": true
+    },
+    {
+      "code": "FS_CITYB_01",
+      "baseTenantId": "upcityb",
+      "active": true
+    },
+    {
+      "code": "FS_CITYC_01",
+      "baseTenantId": "upcityc",
+      "active": true
+    },
+    {
+      "code": "FS_CITYD_01",
+      "baseTenantId": "upcityd",
+      "active": true
+    },
+    {
+      "code": "FS_CITYE_01",
+      "baseTenantId": "upcitye",
+      "active": true
+    }
+  ]
+}

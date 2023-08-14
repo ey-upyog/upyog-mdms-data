@@ -1,7 +1,7 @@
 {
   "tenantId": "pg",
   "moduleName": "tenant",
-  "nationalInfo": [
+  "nationalInfo": [    
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
@@ -19879,6 +19879,14 @@
       "stateName": "Maharashtra",
       "code": "mh.shirolmunicipalcouncil",
       "name": "mh.shirolmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "DL",
+      "stateName": "Delhi",
+      "code": "dl.akshardham",
+      "name": "dl.akshardham",
       "active": true,
       "module": "NationalDashboard"
     }

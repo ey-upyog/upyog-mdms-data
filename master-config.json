@@ -1289,5 +1289,14 @@
         ]
       }
     }
+  },
+  "WSM": {
+    "ContractorType": {
+      "masterName": "ContractorType",
+      "isStateLevel": true,
+      "uniqueKeys": [        
+        "$.code"
+      ]
+    }
   }
 }

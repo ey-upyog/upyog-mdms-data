@@ -1,0 +1,16 @@
+{
+    "tenantId": "upcityc",
+    "moduleName": "BillingService",
+    "GLCode": [
+        {
+            "code": "BIRTH_CERT",
+            "glcode": null,
+            "cb": "upcityc"
+        },
+        {
+            "code": "DEATH_CERT",
+            "glcode": null,
+            "cb": "upcityc"
+        }
+    ]
+}
