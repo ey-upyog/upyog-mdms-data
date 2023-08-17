@@ -459,7 +459,7 @@
             "idname": "pt.assessmentnumber"
         },
         {
-            "format": "PG-PT-[CITY.CODE]-[cy:yyyy-MM-dd]-[SEQ_EG_PT_PTID]",
+            "format": "PG-PT-[cy:yyyy-MM-dd]-[SEQ_EG_PT_PTID]",
             "idname": "pt.propertyid"
         },
         {
@@ -709,6 +709,14 @@
         {
             "format": "SW_AP/[CITY.CODE]/[fy:yyyy-yy]/DC-[SEQ_SW_APP_[TENANT_ID]]",
             "idname": "sewerageservice.disconnection.id"
+        },
+        {
+            "format": "WMS/SOR/[cy:yyyy]/[SEQ_EG_PT_LN]",
+            "idname": "pj.sor.name.id"
+        },
+        {
+            "format": "WMS/Work/[cy:yyyy]/[SEQ_EG_PT_LN]",
+            "idname": "pj.work.name.id"
         }
     ]
 }
