@@ -717,10 +717,6 @@
         {
             "format": "WMS/Work/[cy:yyyy]/[SEQ_EG_PT_LN]",
             "idname": "pj.work.name.id"
-        },
-        {
-            "format": "WMS/Work/[cy:yyyy]/[SEQ_EG_PT_LN]",
-            "idname": "pj.work.name.id"
         }
     ]
 }
