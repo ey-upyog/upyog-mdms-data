@@ -13364,6 +13364,12 @@
       "tenantId": "pg"
     },
     {
+      "rolecode": "CITIZEN",
+      "actionid": 1882,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
       "rolecode": "WS_CEMP",
       "actionid": 1882,
       "actioncode": "",
